@@ -2,7 +2,7 @@
 
 /**
  * main: entry point
- * Description: use printf
+ * description: use printf
  * Return: 0
  */
 int main(void)
